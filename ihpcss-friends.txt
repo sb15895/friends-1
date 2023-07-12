@@ -1,8 +1,7 @@
 * Elsa 
  - LLNL
- - git
+ - crossfit
 * Shrey
  - Edinburgh
- - cooking
 * Ilya
  - JSC
