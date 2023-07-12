@@ -1,8 +1,9 @@
 * Elsa 
- - LLNL
+ - Lawrence Livermore National Lab
  - crossfit
 * Shrey
  - Edinburgh
  - reading 
 * Ilya
  - JSC (Germany)
+ - ice hockey
