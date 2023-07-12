@@ -1,5 +1,5 @@
 * Elsa 
- - LLNL
+ - Lawrence Livermore National Lab
  - crossfit
 * Shrey
  - Edinburgh
