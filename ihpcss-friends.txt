@@ -1,6 +1,8 @@
 * Elsa 
  - LLNL
+ - git
 * Shrey
  - Edinburgh
+ - cooking
 * Ilya
  - JSC
